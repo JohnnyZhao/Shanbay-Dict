@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>BCF9F2A3-DDA5-4F43-B8C1-841F5B51D031</string>
+	<key>IDESourceControlProjectName</key>
+	<string>Shanbay Dict</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>75F116CD-5F7B-4D1B-9601-681EDEBB787D</key>
+		<string>https://github.com/JohnnyZhao/Shanbay-Dict.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Shanbay Dict.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>75F116CD-5F7B-4D1B-9601-681EDEBB787D</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/JohnnyZhao/Shanbay-Dict.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>75F116CD-5F7B-4D1B-9601-681EDEBB787D</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>75F116CD-5F7B-4D1B-9601-681EDEBB787D</string>
+			<key>IDESourceControlWCCName</key>
+			<string>Shanbay Dict</string>
+		</dict>
+	</array>
+</dict>
+</plist>
